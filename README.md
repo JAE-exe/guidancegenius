@@ -4,7 +4,7 @@
 
 <p id="description">Welcome to Guidance Genius your go-to advice app for a blend of insightful wisdom and occasional humor. Whether you're seeking practical life tips or just in need of a good laugh our app has you covered. Discover a wealth of guidance that ranges from the profound to the playful making every moment with Guidance Genius an enriching experience. Embrace the unexpected and let our advice sometimes sprinkled with humor be your companion on life's journey. Get ready to navigate through challenges with a touch of wisdom and a dash of laughter – because life's advice is best served with a smile!</p>
 
-  
+
   
 <h2>💻 Built with</h2>
 
